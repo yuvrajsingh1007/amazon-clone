@@ -1,4 +1,4 @@
-# firstrepository
-this is my first git repository
+# amazony.in
+ clone not functional now
 <br>
-author : yuvraj (student)
+author : yuvraj singh
