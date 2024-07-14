@@ -1,0 +1,186 @@
+#navbar{
+    background-color: rgb(1, 1, 30);
+    display: flex;
+    justify-content: space-around;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+  border: 2px solid transparent;
+}
+#inside{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin: 5px 5px 5px 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+input{
+    border: 0px;
+    margin: 0px;
+    width: 500px;
+}
+#categories{
+    border: 0px;
+    margin: 0px;
+    width: 58px;
+    border-radius: 2%;
+}
+button{
+    background-color: rgb(255, 190, 70);
+    border: 0px;
+    margin: 0px;
+    border-radius: 2%;
+}
+#subnavbar{
+    background-color: rgb(23, 44, 94);
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+#uicone{
+    margin-left: 20px;
+}
+#shopdealsinelectronics{
+    margin-right: 20px;
+}
+.insidertwo{
+    margin: 5px 10px 5px 10px;
+    text-decoration: none;
+    color: white;
+}
+#insidertwo{
+    margin-right: 600px;
+}
+#mainone{
+    height: 300px;
+   background-image: url(images/hero_image.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+#sectionone{
+   padding-left: 90px;
+   padding-right: 90px;
+ background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+#sectiononeanc{
+    text-decoration: none;
+    color: rgb(0, 179, 255);
+}
+#subender{
+    background-color: rgb(23, 44, 94);
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.oneone{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+#middleender{
+    background-color:rgb(1, 1, 30) ;
+    display: flex;
+    justify-content: space-evenly;
+   padding-bottom: 40px;
+}
+h4{
+    color: white;
+}
+#ender{
+    background-color:rgb(1, 1, 30) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid white;
+}
+#maintwo{
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+#boxone{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box1_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+  
+#boxtwo{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box2_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxthree{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box3_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxfour{
+    height:300px;
+    width: 300px;
+    background-image: url(images/box4_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxfive{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box5_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxsix{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box6_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxseven{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box7_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+#boxeight{
+    height: 300px;
+    width: 300px;
+    background-image: url(images/box8_image.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    margin: 5px 5px 5px 5px;
+}
+.shopboxdiv{
+    background-color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.shoboxanch{
+    text-decoration: none;
+}
+.anchor :hover{
+    border: 5px solid white;
+
+}
